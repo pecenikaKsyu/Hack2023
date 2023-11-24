@@ -2,10 +2,15 @@
 ## Human Trafficking 
 ### Team: Alien Algorithms
 #### Students: 
+
 **Ceban Dan**
+
 **Cius Iurie**
+
 **Foros Valentin** 
+
 **Matvei Stephania**
+
 **Wu Ksenia** 
 
 Human Trafficking is one of the major concerns in the society. Our team suggests a strategy that takes advantage of artificial intelligence's powerful computing capacity to address the problem in light of its recent explosion.
