@@ -15,3 +15,8 @@ A deep learning-based system that is able to identify any suspicious activity by
 
 **What is considered anomalous activity?**
 Any activity which differs from a normal activity above a calculated threshold can be marked as anomalous activity. For example - A busy road in city can be considered as a normal activity whereas riots or voilent activites on the same roads will be considered anomalous.
+
+### Solution
+The solution our team sugests to use Generative Adversarial Nets (GANs) which are trained using normal frames and corresponding optical-flow images in order to learn an internal representation of the scene normality. As it was mentioned, our GANs are trained with only normal data, thus, they are not able to generate abnormal events. At testing time the real data is compared with both the appearance and the motion representations reconstructed by our GANs and abnormal areas are detected by computing local differences.
+
+### How to run 
